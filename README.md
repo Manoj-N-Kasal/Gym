@@ -11,4 +11,4 @@ How to run the project
 5.Create a database with name test as shown in the database.png.
 
 
-7.Run the script http://localhost/RR-Iron Fitness.
+7.Run the script http://localhost/RR-Iron/#html
